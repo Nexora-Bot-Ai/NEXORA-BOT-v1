@@ -34,7 +34,7 @@ async function playCommand(sock, chatId, message) {
         const urlYt = video.url;
 
         // Fetch mp3 from PrinceTech API
-        const apiUrl = `https://api.princetechn.com/api/download/ytmp3?apikey=prince&url=${encodeURIComponent(urlYt)}`;
+        const apiUrl = `https://apis.davidcyril.name.ng/play?query=Faded=${encodeURIComponent(urlYt)}`;
         const response = await axios.get(apiUrl);
         const data = response.data;
 
