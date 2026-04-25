@@ -16,7 +16,7 @@ Welcome to **NEXORA-BOT**, an open-source WhatsApp bot developed by SOURAJIT. Th
 
 This is Important To Run Your Bot
 
-<A HREF="https://mixed-kristel-sourajit-df158197.koyeb.app><img title="PAIR NEW CHAMPS SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=indigo&style=for-the-badge&logo=msi"></a>
+<A HREF="https://mixed-kristel-sourajit-df158197.koyeb.app"><img title="PAIR NEW CHAMPS SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=indigo&style=for-the-badge&logo=msi"></a>
 
 <a href="https://github.com/Nexora-Bot-Ai/NEXORA-BOT/fork"><img title="Fork Repo" src="https://img.shields.io/badge/Fork Repo-h?color=brown&style=for-the-badge&logo=stackshare"></a>
 
